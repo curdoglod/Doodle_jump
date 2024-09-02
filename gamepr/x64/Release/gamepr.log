@@ -1,0 +1,135 @@
+﻿  engine.cpp
+  gamepr.cpp
+C:\Users\dimak\Desktop\Doodle_jump\gamepr\srcs\gamepr.cpp(106,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dimak\Desktop\Doodle_jump\gamepr\srcs\gamepr.cpp(123,69): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\dimak\Desktop\Doodle_jump\gamepr\srcs\gamepr.cpp(218,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dimak\Desktop\Doodle_jump\gamepr\srcs\gamepr.cpp(251,35): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\dimak\Desktop\Doodle_jump\gamepr\srcs\gamepr.cpp(417,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\dimak\Desktop\Doodle_jump\gamepr\srcs\gamepr.cpp(418,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\dimak\Desktop\Doodle_jump\gamepr\srcs\gamepr.cpp(431,55): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\dimak\Desktop\Doodle_jump\gamepr\srcs\gamepr.cpp(431,42): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\dimak\Desktop\Doodle_jump\gamepr\srcs\gamepr.cpp(512,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dimak\Desktop\Doodle_jump\gamepr\srcs\gamepr.cpp(520,32): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\dimak\Desktop\Doodle_jump\gamepr\srcs\gamepr.cpp(638,76): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\dimak\Desktop\Doodle_jump\gamepr\srcs\gamepr.cpp(638,56): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4244:             _Ty1=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4244:         ]
+  (compiling source file 'srcs/gamepr.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\dimak\Desktop\Doodle_jump\gamepr\srcs\gamepr.cpp(71,43):
+  	see reference to function template instantiation 'std::pair<float,float>::pair<int,int,0>(std::pair<int,int> &&) noexcept' being compiled
+  		C:\Users\dimak\Desktop\Doodle_jump\gamepr\srcs\gamepr.cpp(71,43):
+  		see the first reference to 'std::pair<float,float>::pair' in 'Doodle::is_jumping'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,61): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,61): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,61): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,61): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,61): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,61): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,61): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,61): warning C4244:             _Ty2=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,61): warning C4244:         ]
+  (compiling source file 'srcs/gamepr.cpp')
+  
+  object.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4244:             _Ty1=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4244:         ]
+  (compiling source file 'srcs/object.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\dimak\Desktop\Doodle_jump\gamepr\srcs\object.cpp(14,39):
+  	see reference to function template instantiation 'std::pair<float,float>::pair<int,int,0>(std::pair<int,int> &&) noexcept' being compiled
+  		C:\Users\dimak\Desktop\Doodle_jump\gamepr\srcs\object.cpp(14,39):
+  		see the first reference to 'std::pair<float,float>::pair' in 'Object::crossing'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,61): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,61): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,61): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,61): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,61): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,61): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,61): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,61): warning C4244:             _Ty2=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,61): warning C4244:         ]
+  (compiling source file 'srcs/object.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(399,39): warning C4244: '=': conversion from '_Ty' to '_Ty1', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(399,39): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(399,39): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(399,39): warning C4244:             _Ty=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(399,39): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(399,39): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(399,39): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(399,39): warning C4244:             _Ty1=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(399,39): warning C4244:         ]
+  (compiling source file 'srcs/object.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(399,39):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\dimak\Desktop\Doodle_jump\gamepr\srcs\object.cpp(51,10):
+  	see reference to function template instantiation 'std::pair<int,int> &std::pair<int,int>::operator =<float,float,0>(std::pair<float,float> &&) noexcept' being compiled
+  		C:\Users\dimak\Desktop\Doodle_jump\gamepr\srcs\object.cpp(51,10):
+  		see the first reference to 'std::pair<int,int>::operator =' in 'Object::init_size'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(400,39): warning C4244: '=': conversion from '_Ty' to '_Ty2', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(400,39): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(400,39): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(400,39): warning C4244:             _Ty=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(400,39): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(400,39): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(400,39): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(400,39): warning C4244:             _Ty2=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(400,39): warning C4244:         ]
+  (compiling source file 'srcs/object.cpp')
+  
+  sprite.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4244:             _Ty=unsigned int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4244:             _Ty1=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16): warning C4244:         ]
+  (compiling source file 'srcs/sprite.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,16):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\dimak\Desktop\Doodle_jump\gamepr\srcs\sprite.cpp(39,5):
+  	see reference to function template instantiation 'std::pair<float,float>::pair<unsigned int,unsigned int,0>(std::pair<unsigned int,unsigned int> &&) noexcept' being compiled
+  		C:\Users\dimak\Desktop\Doodle_jump\gamepr\srcs\sprite.cpp(39,5):
+  		see the first reference to 'std::pair<float,float>::pair' in 'Sprite::getSize'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,61): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,61): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,61): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,61): warning C4244:             _Ty=unsigned int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,61): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,61): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,61): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,61): warning C4244:             _Ty2=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility(278,61): warning C4244:         ]
+  (compiling source file 'srcs/sprite.cpp')
+  
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 567 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  gamepr.vcxproj -> C:\Users\dimak\Desktop\Doodle_jump\x64\Release\gamepr.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

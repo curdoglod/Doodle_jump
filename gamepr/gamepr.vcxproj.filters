@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="includes\engine.h">
+      <Filter>includes</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\object.h">
+      <Filter>includes</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\sprite.h">
+      <Filter>includes</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="srcs\engine.cpp">
+      <Filter>srcs</Filter>
+    </ClCompile>
+    <ClCompile Include="srcs\gamepr.cpp">
+      <Filter>srcs</Filter>
+    </ClCompile>
+    <ClCompile Include="srcs\object.cpp">
+      <Filter>srcs</Filter>
+    </ClCompile>
+    <ClCompile Include="srcs\sprite.cpp">
+      <Filter>srcs</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="includes">
+      <UniqueIdentifier>{2d23ccda-046b-4772-861e-741524583008}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="srcs">
+      <UniqueIdentifier>{177fffda-7406-4174-8dcd-a55fa42b9f52}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
